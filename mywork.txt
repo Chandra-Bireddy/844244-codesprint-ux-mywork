@@ -1,0 +1,21 @@
+My associate id:
+844244
+Other team members:
+844255, 844254, 844416
+Team lead:
+844254
+My Role in team:
+1. To develop home,contactus,layouts  
+My development files:
+1. home.component.html
+2.contactus.component.html
+3. header.component.html
+4.footer.component.html
+
+I was strong in:
+1. HttpClient 
+2. Documentation
+I was weak in:
+1. Reactive forms 
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
